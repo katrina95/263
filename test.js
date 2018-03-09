@@ -1,1 +1,1 @@
-can anyone edit or see this? Try edit it, commit and push
+can anyone edit or see this? Try to edit it, commit and push
